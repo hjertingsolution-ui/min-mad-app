@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#2E8B57"   # Mørkegrøn (til knapper og sliders)
+backgroundColor = "#F2F8F2" # Meget lys, sart lysegrøn baggrund
+secondaryBackgroundColor = "#E6F2E6" # Lidt mørkere grøn til bokse/inputfelter
+textColor = "#31333F"       # Mørkegrå tekst (nem at læse)
+font = "sans serif"
